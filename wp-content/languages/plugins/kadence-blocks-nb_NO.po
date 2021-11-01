@@ -1,0 +1,310 @@
+# Translation of Plugins - Gutenberg Blocks by Kadence Blocks – Page Builder Features - Development (trunk) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks by Kadence Blocks – Page Builder Features - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-01 09:53:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks by Kadence Blocks – Page Builder Features - Development (trunk)\n"
+
+#: dist/settings/class-kadence-blocks-settings.php:679 dist/build/blocks.js:11
+#: dist/build/blocks.js:36
+msgid "Form"
+msgstr "Skjema"
+
+#: dist/form-ajax.php:476 dist/build/blocks.js:34
+msgid "Accept"
+msgstr "Godta"
+
+#: dist/form-ajax.php:441
+msgid "No Data"
+msgstr "ingen data"
+
+#: dist/form-ajax.php:65 dist/form-ajax.php:205
+msgid "Submission"
+msgstr "Innsending"
+
+#: dist/class-fluentcrm-form-rest-api.php:92 dist/build/blocks.js:34
+msgid "Last Name"
+msgstr "Etternavn"
+
+#: dist/class-fluentcrm-form-rest-api.php:88 dist/build/blocks.js:34
+msgid "First Name"
+msgstr "Fornavn"
+
+#: dist/settings/class-kadence-blocks-settings.php:722
+msgid "Create a box link containing an icon or image and optionally a title, description, and learn more text. Style static and hover colors even show a box-shadow."
+msgstr "Lag en bokslenke som inneholder et ikon eller bilde og eventuelt en tittel, beskrivelse og lær mer-tekst. Bestem statiske- og oversveve-stiler eller boks-skygge."
+
+#: dist/settings/class-kadence-blocks-settings.php:389
+msgid "Config Kadence Blocks Color Palette"
+msgstr "Konfigurer fargepalett for Kadence-blokker"
+
+#: dist/settings/class-kadence-blocks-settings.php:739 dist/build/blocks.js:11
+#: dist/build/blocks.js:15 dist/build/blocks.js:32 dist/plugin/plugin.js:12
+msgid "Testimonials"
+msgstr "Anbefalinger"
+
+#: dist/settings/class-kadence-blocks-settings.php:740
+msgid "Create confidence in your brand or product by showing off beautiful unique testimonials, add as a carousel or a grid."
+msgstr "Skap tiltro til ditt firma eller produkt ved å vise frem nydelige, unike anbefalinger, og legg til som karusell eller rutenett."
+
+#: dist/settings/class-kadence-blocks-settings.php:733 dist/build/blocks.js:32
+#: dist/plugin/plugin.js:12
+msgid "Icon List"
+msgstr "Ikonliste"
+
+#: dist/settings/class-kadence-blocks-settings.php:734
+msgid "Add beautiful icons to your lists and make them more engaging. Over 1500 icons to choose from and unlimited styles."
+msgstr "Legg til nydelige ikoner på dine lister og gjør dem mer engasjerende. Over 1500 ikoner å velge mellom og ubegrensede stiler."
+
+#: dist/settings/class-kadence-blocks-settings.php:378
+msgid "Config Kadence Block Settings View"
+msgstr "Konfigurer visning av innstillinger for Kadence-blokker"
+
+#: dist/settings/class-kadence-blocks-settings.php:367
+msgid "Config Kadence Block Defaults"
+msgstr "Konfigurer standardverdier for Kadence-blokker"
+
+#: dist/settings/class-kadence-blocks-settings.php:620
+msgid "Editor Max Widths"
+msgstr "Maksimalbredder for redigeringsvindu"
+
+#: dist/settings/class-kadence-blocks-settings.php:728 dist/build/blocks.js:32
+msgid "Create beautiful accordions! Each pane can contain any other block, customize title styles, content background, and borders."
+msgstr "Lag nydelige trekkspill! Hvert panel kan inneholde enhver annen blokk, tilpass tittelstiler, innholdsbakgrunn og kanter."
+
+#: dist/settings/class-kadence-blocks-settings.php:620
+msgid "Match the editor width to your sites width."
+msgstr "Tilpass bredden på redigeringsvinduet til bredden på ditt nettsted."
+
+#: dist/settings/class-kadence-blocks-settings.php:721 dist/build/blocks.js:32
+#: dist/plugin/plugin.js:9
+msgid "Info Box"
+msgstr "Infoboks"
+
+#: dist/settings/class-kadence-blocks-settings.php:727 dist/build/blocks.js:11
+#: dist/build/blocks.js:32 dist/plugin/plugin.js:6
+msgid "Accordion"
+msgstr "Trekkspill"
+
+#: dist/settings/class-kadence-blocks-settings.php:760
+msgid "Nothing to Save"
+msgstr "Intet å lagre"
+
+#: dist/settings/class-kadence-blocks-settings.php:754
+msgid "Missing Content"
+msgstr "Manglende innhold"
+
+#: dist/settings/class-kadence-blocks-settings.php:751
+msgid "Invalid nonce"
+msgstr "Ugyldig engangskode"
+
+#: dist/settings/class-kadence-blocks-settings.php:279
+msgid "Default Settings"
+msgstr "Standardinnstillinger"
+
+#: dist/settings/class-kadence-blocks-settings.php:278
+msgid "Config"
+msgstr "Konfigurasjon"
+
+#: dist/settings/class-kadence-blocks-settings.php:277
+msgid "Updated"
+msgstr "Oppdatert"
+
+#: dist/settings/class-kadence-blocks-settings.php:276
+msgid "Updating"
+msgstr "Oppdaterer"
+
+#: dist/settings/class-kadence-blocks-settings.php:275 dist/build/blocks.js:34
+#: dist/build/blocks.js:36
+msgid "Save"
+msgstr "Lagre"
+
+#: dist/settings/class-kadence-blocks-settings.php:274
+msgid "Close"
+msgstr "Lukk"
+
+#: dist/settings/class-kadence-blocks-settings.php:715 dist/build/blocks.js:11
+#: dist/build/blocks.js:32 dist/plugin/plugin.js:6
+msgid "Tabs"
+msgstr "Faner"
+
+#: dist/settings/class-kadence-blocks-settings.php:489
+#: dist/settings/class-kadence-blocks-settings.php:502
+msgid "True"
+msgstr "Ja"
+
+#: dist/settings/class-kadence-blocks-settings.php:488
+#: dist/settings/class-kadence-blocks-settings.php:501
+msgid "False"
+msgstr "Nei"
+
+#: dist/settings/class-kadence-blocks-settings.php:477
+msgid "Enable Editor Width"
+msgstr "Slå på redigeringsbredde"
+
+#: dist/settings/class-kadence-blocks-settings.php:716
+msgid "Create custom vertical or horizontal tabs with advanced styling controls. Each tab content is an empty canvas able to contain any other blocks."
+msgstr "Lag tilpassede vertikale og horisontale faner med avanserte stilkontroller. Hvert faneinnhold er en tom flate som kan inneholde andre blokker."
+
+#: dist/settings/class-kadence-blocks-settings.php:486
+msgid "Allows for changes to the editor width on per page/post basis with preset defaults."
+msgstr "Tillater endringer av redigeringsbredden på basis av side/innlegg med forhåndsinnstilte verdier."
+
+#: dist/settings/class-kadence-blocks-settings.php:622
+msgid "Note: The current active themes \"content_width\" is set to:"
+msgstr "Merk: Innholdsbredden i nåværende aktive tema er satt til:"
+
+#: dist/settings/class-kadence-blocks-settings.php:533
+#: dist/settings/class-kadence-blocks-settings.php:545 dist/plugin/plugin.js:12
+msgid "Fullwidth"
+msgstr "Fullbredde:"
+
+#: dist/settings/class-kadence-blocks-settings.php:532
+#: dist/settings/class-kadence-blocks-settings.php:544 dist/build/blocks.js:44
+#: dist/plugin/plugin.js:1 dist/plugin/plugin.js:9 dist/plugin/plugin.js:12
+msgid "Large"
+msgstr "Stor"
+
+#: dist/settings/class-kadence-blocks-settings.php:531
+#: dist/settings/class-kadence-blocks-settings.php:543 dist/plugin/plugin.js:1
+msgid "Small"
+msgstr "Liten"
+
+#: dist/settings/class-kadence-blocks-settings.php:472
+msgid "Large Template"
+msgstr "Stor mal"
+
+#: dist/settings/class-kadence-blocks-settings.php:471
+msgid "Small Template"
+msgstr "Liten mal"
+
+#: dist/settings/class-kadence-blocks-settings.php:649
+msgid "Browse Docs"
+msgstr "Bla gjennom dokumenter"
+
+#: dist/settings/class-kadence-blocks-settings.php:709 dist/build/blocks.js:32
+#: dist/plugin/plugin.js:12
+msgid "Advanced Heading"
+msgstr "Avansert overskrift"
+
+#: dist/settings/class-kadence-blocks-settings.php:710
+msgid "Transform your headings to Advanced Headings and customize the font family (even google fonts), color, and size."
+msgstr "Forvandle dine overskrifter til avanserte overskrifter og tilpass skriften (også Google-skrifter), farge og størrelse."
+
+#: dist/settings/class-kadence-blocks-settings.php:703 dist/build/blocks.js:11
+#: dist/plugin/plugin.js:4
+msgid "Spacer/Divider"
+msgstr "Avstandsholder/skille"
+
+#: dist/settings/class-kadence-blocks-settings.php:691 dist/build/blocks.js:11
+#: dist/plugin/plugin.js:12
+msgid "Advanced Button"
+msgstr "Avansert knapp"
+
+#: dist/settings/class-kadence-blocks-settings.php:697 dist/build/blocks.js:11
+#: dist/build/blocks.js:29 dist/build/blocks.js:32 dist/plugin/plugin.js:9
+msgid "Icon"
+msgstr "Ikon"
+
+#: dist/settings/class-kadence-blocks-settings.php:673 dist/build/blocks.js:21
+#: dist/plugin/plugin.js:12
+msgid "Row Layout"
+msgstr "Radoppsett"
+
+#: dist/settings/class-kadence-blocks-settings.php:654
+msgid "Support"
+msgstr "Brukerstøtte"
+
+#: dist/settings/class-kadence-blocks-settings.php:629
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Deactivated"
+msgstr "Deaktivert"
+
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Deactivating..."
+msgstr "Deaktiverer"
+
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Activated"
+msgstr "Aktivert"
+
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Activating..."
+msgstr "Aktiverer..."
+
+#: dist/settings/class-kadence-blocks-settings.php:609
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: dist/settings/class-kadence-blocks-settings.php:607
+#: dist/settings/class-kadence-blocks-settings.php:612
+msgid "Activate"
+msgstr "Aktiver"
+
+#: dist/settings/class-kadence-blocks-settings.php:265
+#: dist/settings/class-kadence-blocks-settings.php:878 dist/build/blocks.js:11
+#: dist/build/blocks.js:21 dist/build/blocks.js:29 dist/build/blocks.js:32
+#: dist/build/blocks.js:34
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: dist/settings/class-kadence-blocks-settings.php:512
+#: dist/settings/class-kadence-blocks-settings.php:521 dist/build/blocks.js:11
+#: dist/build/blocks.js:29 dist/build/blocks.js:32 dist/plugin/plugin.js:4
+#: dist/plugin/plugin.js:6 dist/plugin/plugin.js:12
+msgid "px"
+msgstr "px"
+
+#: dist/settings/class-kadence-blocks-settings.php:474
+msgid "Post default"
+msgstr "Standard for innlegg"
+
+#: dist/settings/class-kadence-blocks-settings.php:475
+msgid "Page Default"
+msgstr "Standard for sider"
+
+#: dist/init.php:653 dist/init.php:680
+#: dist/settings/class-kadence-blocks-settings.php:262
+#: dist/settings/class-kadence-blocks-settings.php:264
+msgid "Kadence Blocks"
+msgstr "Kadence-blokker"
+
+#: dist/settings/class-kadence-blocks-settings.php:262
+#: dist/settings/class-kadence-blocks-settings.php:264
+#: dist/settings/class-kadence-blocks-settings.php:265
+msgid "Kadence Blocks -  Gutenberg Page Builder Blocks"
+msgstr "Kadence-blokker -  Sidebyggerblokker for Gutenberg"
+
+#. Description of the plugin
+msgid "Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc."
+msgstr "Avanserte sidebyggingsblokker for Gutenberg. Lag tilpassede kolonneoppsett, bakgrunner, doble knapper, ikoner osv."
+
+#: dist/settings/class-kadence-blocks-settings.php:704
+msgid "Easily create a divider and determine the space around it or just create some space in your content."
+msgstr "Lag enkelt et skille og bestem avstanden rundt den eller lag litt åpen plass i ditt innhold."
+
+#: dist/settings/class-kadence-blocks-settings.php:692
+msgid "Create an advanced button or a row of buttons. Style each one including hover controls plus you can use an icon and display them side by side"
+msgstr "Lag en avansert knapp eller en knapperad. Gi stil til hver enkelt, inkludert pekersveve-kontroller samt at du kan bruke et ikon og vise dem side om side."
+
+#: dist/settings/class-kadence-blocks-settings.php:698
+msgid "Choose from over 1500+ SVG Icons to add into your page and style the size, colors, background, border, etc."
+msgstr "Velg blant over 1500+ SVG-ikoner og leg til på din side bestem størrelse, farger, bakgrunner, kanter osv."
+
+#: dist/settings/class-kadence-blocks-settings.php:674
+msgid "Create rows with nested blocks either in columns or as a container. Give style to your rows with background, overlay, padding, etc."
+msgstr "Lag rader med nøstede blokker, enten i kolonner eller som en beholder. Gi stil til done rader med bakgrunner, overlegg, polstring osv."
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
